@@ -1,0 +1,14 @@
+Git and GitHub.
+
+Git Basics:
+1.	Git init initialize the git in a project file. Therefore we need to navigate to the project folder and initialize git by using this command
+2.	Git status this command shows the status of the contents, where exactly the changed or new file is? Whether a file is ready to be moved to the staging area or not.
+3.	Git add {filename} The file will be added to the staging area and is ready to be commited. We can use Git add . to add multiple files together.
+4.	Git commit -m “comment” The file is committed to the local repository. The comment will help what version exactly the file is? Comment is normally written in present tense.
+5.	Git diff filename difference of the file in previous and current version of the file.
+6.	Git checkout filename  We want to rollback to the previous version of the file then we use the git checkout command. Git checkout chapter100; 
+
+I am testing the git clone command now.
+
+Git clone URL (HTTPS/SSH)
+
